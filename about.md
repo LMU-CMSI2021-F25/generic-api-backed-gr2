@@ -1,3 +1,6 @@
+codesandbox link:
+https://codesandbox.io/p/github/LMU-CMSI2021-F25/generic-api-backed-gr2/draft/happy-margulis
+
 # Mission Control Dashboard
 
 Mission Control Dashboard is a responsive React application that surfaces two different NASA data products side-by-side:
